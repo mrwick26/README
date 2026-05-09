@@ -23,8 +23,7 @@ Java Developer | Brand X
 
 ## Key Projects
 
-- E-Commerce Backend Systems
-- Secure Task Management API
+- Bank App
 - Point of Sale
 
 ## Education & Certifications
