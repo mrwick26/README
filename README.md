@@ -35,5 +35,5 @@ Java Developer | Brand X
 - Microsoft Certified Azure Developer
 - CCNA and CCNP
 - Comptia Security+
-- Cyber Security Foundation
+- Google Cyber Security
 
