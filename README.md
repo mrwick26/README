@@ -1,5 +1,5 @@
 # README
-##Created by: manongnimo's
+##Ghostwriter: manongnimo's
 
 MY JAVA JOURNEY @ CIICC/TESDA
 
