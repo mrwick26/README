@@ -32,8 +32,3 @@ Java Developer | Brand X
 - Bachelor of Science in Information Technology
 - CIICC/TESDA (JAVA NCIII)
 - Oracle Certified Professional: Java SE Programmer
-- Microsoft Certified Azure Developer
-- CCNA and CCNP
-- Comptia Security+
-- Google Cyber Security
-
