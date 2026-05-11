@@ -5,6 +5,6 @@ public class Toy {
     public int quantity;
 
     public static void main(String args[]){
-        System.out.println("for the toy class");
+        System.out.println("Hello Manongnimous");
     }
 }
