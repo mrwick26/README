@@ -1,5 +1,5 @@
 package BankApp.MoneyManagement;
 
-public class CashInOut{
+public class Transactions {
     
 }
