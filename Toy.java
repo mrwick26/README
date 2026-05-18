@@ -33,6 +33,7 @@ public class Toy {
         System.out.println("Hello Manongnimous");
         Toy toy1 = new Toy();
         System.out.println(toy1.name);
+        System.out.println("Hello Manongnimous");
     }
 
 
