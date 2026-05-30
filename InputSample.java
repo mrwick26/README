@@ -22,7 +22,6 @@ public class InputSample {
         ((c%2)==0) ? "even" : "odd"
         );*/
 
-
         StringBuilder sb1 = new StringBuilder(4);
         StringBuilder sb2 = new StringBuilder("Tesda");
         //a = input.nextInt();
