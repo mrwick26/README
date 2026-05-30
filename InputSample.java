@@ -4,7 +4,7 @@ public class InputSample {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int a, b = 0;
+        //int a, b = 0;
         /*System.out.println();
         int a, b = 0;
         Scanner input = new Scanner(System.in);
@@ -22,7 +22,7 @@ public class InputSample {
         ((c%2)==0) ? "even" : "odd"
         );*/
 
-        StringBuilder sb1 = new StringBuilder(4);
+        //StringBuilder sb1 = new StringBuilder(4);
         StringBuilder sb2 = new StringBuilder("Tesda");
         //a = input.nextInt();
         //System.out.println(sb1.reverse());
