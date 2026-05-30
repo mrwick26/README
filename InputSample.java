@@ -62,6 +62,12 @@ public class InputSample {
        System.out.println(sb.capacity());
        System.out.println(sb.length());
 
+       StringBuilder sb1 = new StringBuilder("Angelo");
+       //0-1-2-3-4-5-6
+       //A-n-g-e-l-o
+       //sb1.insert("s");
+       //sb1.insert(1,"s");
+       System.out.println(sb1);
     }
     
 }
