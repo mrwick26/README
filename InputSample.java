@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class InputSample {
 
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        /*Scanner input = new Scanner(System.in);
         //int a, b = 0;
         /*System.out.println();
         int a, b = 0;
@@ -22,6 +22,7 @@ public class InputSample {
         ((c%2)==0) ? "even" : "odd"
         );*/
 
+        /*
         //StringBuilder sb1 = new StringBuilder(4);
         StringBuilder sb2 = new StringBuilder("Tesda");
         //a = input.nextInt();
@@ -30,9 +31,12 @@ public class InputSample {
         System.out.println(sb2);
         System.out.println("Enter a number");
         a = input.nextInt();*/
+        /*
         System.out.println(sb2.length()-1);
         System.out.println(sb2.charAt(4));
+        */
 
+        /*
         String ab = "";
         ab = input.nextLine();
         System.out.println(ab);
@@ -41,6 +45,7 @@ public class InputSample {
         System.out.println(sb3);
         //System.out.println(ab.equals(sb3)? true: false);
         System.out.println(ab.equals(sb3.toString())? true : false);
+        */
 
         /*if(ab.equals(sb3.toString())){
             System.out.println("The input string is a palindrome");
@@ -48,6 +53,14 @@ public class InputSample {
         else{
             System.out.println("The input string is not a palindrome");
         }*/
+
+
+       //String Builder
+       String s = "";
+       StringBuilder sb = new StringBuilder("lazy dog statement \"refers to the famous English pangram:\" The quick brown fox jumps over the lazy dog.");
+       System.out.println(sb);
+       System.out.println(sb.capacity());
+       System.out.println(sb.length());
 
     }
     
