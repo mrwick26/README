@@ -8,7 +8,7 @@ public class Task7 {
 
         System.out.print("Enter the first number: ");
         int num1 = sc.nextInt();
-
+        
         System.out.print("Enter the second number: ");
          int num2 = sc.nextInt();
 

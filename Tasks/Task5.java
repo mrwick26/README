@@ -12,14 +12,14 @@ public class Task5 {
         Scanner input = new Scanner(System.in);
 
         System.out.println("Enter three numbers:");
+        System.out.print("First number: ");
         firstNum = input.nextInt();
+        System.out.print("Second number: ");
         secondNum = input.nextInt();
+        System.out.print("Third number: ");
         thirdNum = input.nextInt();
 
         String largestNum = "The largest number is ";
-        System.out.println("First number: " + firstNum + "\n"
-            + "Second number: " + secondNum + "\n"
-            + "Third number: " + thirdNum);
 
         if (firstNum == secondNum && secondNum == thirdNum) {
             System.out.println("All numbers are equal");
