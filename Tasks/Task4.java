@@ -17,6 +17,8 @@ public class Task4 {
 
         //Boolean exp
         System.out.println(sb.toString().equals(s2) ? "The input String is a palindrome" : "The input String is not a palindrome");
+        
+        input.close();
     }
 
 }

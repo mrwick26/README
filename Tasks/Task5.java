@@ -30,5 +30,7 @@ public class Task5 {
         }else if (thirdNum >= firstNum && thirdNum >= secondNum) {
             System.out.println(largestNum + "the third number, which is: " + thirdNum);
         }
+
+        input.close();
     }
 }
