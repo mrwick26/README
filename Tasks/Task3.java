@@ -8,7 +8,7 @@ package Tasks;
  * 
  * 
  * 
- * This a Toy Object that has a parameter of name, brand, price, quantity
+ *This is created by mrwick26
  * 
  */
 public class Task3 {
