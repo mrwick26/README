@@ -1,5 +1,16 @@
 package Tasks;
-
+/**
+ * @author 
+ * 
+ * 
+ * 
+ * manongnimo's
+ * 
+ * 
+ * 
+ * This a Toy Object that has a parameter of name, brand, price, quantity
+ * 
+ */
 import java.util.Scanner;
 
 public class Task7 {
