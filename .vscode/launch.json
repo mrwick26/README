@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Task15",
+            "request": "launch",
+            "mainClass": "Tasks.Task15",
+            "projectName": "README_a44d6210"
+        },
+        {
+            "type": "java",
+            "name": "Task14",
+            "request": "launch",
+            "mainClass": "Tasks.Task14",
+            "projectName": "README_a44d6210"
+        },
+        {
+            "type": "java",
+            "name": "Task13",
+            "request": "launch",
+            "mainClass": "Tasks.Task13",
+            "projectName": "README_a44d6210"
+        },
+        {
+            "type": "java",
+            "name": "Task12",
+            "request": "launch",
+            "mainClass": "Tasks.Task12",
+            "projectName": "README_a44d6210"
+        },
+        {
+            "type": "java",
+            "name": "Task11",
+            "request": "launch",
+            "mainClass": "Tasks.Task11",
+            "projectName": "README_a44d6210"
+        },
+        {
+            "type": "java",
+            "name": "Task10",
+            "request": "launch",
+            "mainClass": "Tasks.Task10",
+            "projectName": "README_a44d6210"
+        },
+        {
+            "type": "java",
+            "name": "Task9",
+            "request": "launch",
+            "mainClass": "Tasks.Task9",
+            "projectName": "README_a44d6210"
+        },
+        {
+            "type": "java",
+            "name": "Task8",
+            "request": "launch",
+            "mainClass": "Tasks.Task8",
+            "projectName": "README_a44d6210"
+        },
+        {
+            "type": "java",
+            "name": "Task7",
+            "request": "launch",
+            "mainClass": "Tasks.Task7",
+            "projectName": "README_a44d6210"
+        },
+        {
+            "type": "java",
+            "name": "Task6",
+            "request": "launch",
+            "mainClass": "Tasks.Task6",
+            "projectName": "README_a44d6210"
+        },
+        {
+            "type": "java",
+            "name": "Task5",
+            "request": "launch",
+            "mainClass": "Tasks.Task5",
+            "projectName": "README_a44d6210"
+        },
+        {
+            "type": "java",
+            "name": "Task4",
+            "request": "launch",
+            "mainClass": "Tasks.Task4",
+            "projectName": "README_a44d6210"
+        },
+        {
+            "type": "java",
+            "name": "Task3",
+            "request": "launch",
+            "mainClass": "Tasks.Task3",
+            "projectName": "README_a44d6210"
+        },
+        {
+            "type": "java",
+            "name": "Task2",
+            "request": "launch",
+            "mainClass": "Tasks.Task2",
+            "projectName": "README_a44d6210"
+        },
+        {
+            "type": "java",
             "name": "Task16",
             "request": "launch",
             "mainClass": "Tasks.Task16",
